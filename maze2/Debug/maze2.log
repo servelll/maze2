@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  gmap.cpp
+D:\Backup\Projects\maze2\maze2\gmap.h(23,16): error C2143:  синтаксическая ошибка: отсутствие ";" перед "&"
+D:\Backup\Projects\maze2\maze2\gmap.h(23,16): error C2433:  ostream: "friend" не разрешается для объявлений данных
+D:\Backup\Projects\maze2\maze2\gmap.h(23,16): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Backup\Projects\maze2\maze2\gmap.h(23,46): error C2238:  непредвиденные лексемы перед ";"
+D:\Backup\Projects\maze2\maze2\gmap.cpp(20,21): error C2248:  point::w_: невозможно обратиться к private член, объявленному в классе "point"
+D:\Backup\Projects\maze2\maze2\gmap.h(5): message :   см. объявление "point::w_"
+D:\Backup\Projects\maze2\maze2\gmap.h(4): message :   см. объявление "point"
+D:\Backup\Projects\maze2\maze2\gmap.cpp(20,37): error C2248:  point::h_: невозможно обратиться к private член, объявленному в классе "point"
+D:\Backup\Projects\maze2\maze2\gmap.h(6): message :   см. объявление "point::h_"
+D:\Backup\Projects\maze2\maze2\gmap.h(4): message :   см. объявление "point"
+D:\Backup\Projects\maze2\maze2\gmap.cpp(61,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Backup\Projects\maze2\maze2\gmap.cpp(532,36): warning C4805:  ==: небезопасное смешение типа "int" и типа "bool" в операции
+D:\Backup\Projects\maze2\maze2\gmap.cpp(587,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\maze2\maze2\gmap.cpp(640,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\maze2\maze2\gmap.cpp(648,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  maze2.cpp
+  Создание кода...
+D:\Backup\Projects\maze2\maze2\gmap.cpp(657,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
